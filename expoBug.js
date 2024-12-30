@@ -1,0 +1,1 @@
+While using Expo CLI, I encountered an issue where the development server wouldn't start, returning a cryptic error message related to port conflicts or permissions.  The standard troubleshooting steps (checking for other processes, adjusting ports) didn't resolve the issue.
